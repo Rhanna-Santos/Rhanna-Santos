@@ -1,4 +1,4 @@
-- # 👋**Olá, eu sou @Rhanna-Duarte**
+- # 👋**Olá, eu sou @Rhanna-Santos**
 - ## **🌟 Sobre mim 🌟**
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Matemática**, apaixonada por tecnologia, análise de dados e criação de soluções inovadoras. Estou em busca de **oportunidades de estágio** que me permitam aplicar e expandir meus conhecimentos, contribuindo para o sucesso da empresa e o desenvolvimento da equipe.
 - ## **🛠️ Tecnologias e Ferramentas 🛠️**
